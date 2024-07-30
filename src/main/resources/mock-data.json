@@ -1,0 +1,2568 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/uk/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id228598334"
+                    },
+                    "name": {
+                        "label": "Jeremykoh890"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-27T00:13:40-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11539828928"
+                },
+                "title": {
+                    "label": "Unreliable app"
+                },
+                "content": {
+                    "label": "Customer chat gets stuck, doesn’t have features other bank apps have too. Difficult to close accounts with the bank - a bank that doesn’t boost user’s confidence.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id196136461"
+                    },
+                    "name": {
+                        "label": "Slogaa"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-24T16:19:54-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11531158808"
+                },
+                "title": {
+                    "label": "Safe and easy"
+                },
+                "content": {
+                    "label": "Safe and easy use of digital banking.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1680077468"
+                    },
+                    "name": {
+                        "label": "shah2905"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-19T19:43:17-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11512961875"
+                },
+                "title": {
+                    "label": "Displaying card due amount"
+                },
+                "content": {
+                    "label": "Even after the card due is settled, the app is so bad that it still keeps displaying the amount due instead of becoming 0.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1124889768"
+                    },
+                    "name": {
+                        "label": "garminsuck"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-18T21:15:05-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11509455769"
+                },
+                "title": {
+                    "label": "Easy and convenient with mobile app"
+                },
+                "content": {
+                    "label": "Very quick and easy with the mobile app.. simply log in and the payment transaction can be done quickly without queue at the counter !!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id324472122"
+                    },
+                    "name": {
+                        "label": "Wilson1999999"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-18T06:45:07-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11507191521"
+                },
+                "title": {
+                    "label": "Efficient App"
+                },
+                "content": {
+                    "label": "I am glad to use the app conveniently and intuitively.\n\nPerforming my transactions are fast and assuring. Products are easily found in just a few clicks.\n\nThank you!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id179246494"
+                    },
+                    "name": {
+                        "label": "fredkws"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-15T21:56:04-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11498364516"
+                },
+                "title": {
+                    "label": "FaceID cannot launch"
+                },
+                "content": {
+                    "label": "Out of sudden the app faceID cannot launch. Checked faceID was enabled and my other banking apps works fine with the faceID.\n\nSoftware issues. Now I can’t access.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id101487230"
+                    },
+                    "name": {
+                        "label": "emitchan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-13T06:03:26-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11488347150"
+                },
+                "title": {
+                    "label": "Lovely new experience"
+                },
+                "content": {
+                    "label": "By far the most improved mobile banking app across the local banks!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1662016751"
+                    },
+                    "name": {
+                        "label": "赵先先生"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-11T22:43:24-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11483329409"
+                },
+                "title": {
+                    "label": "赞一个"
+                },
+                "content": {
+                    "label": "你们的服务及系统的效率确实不错，谢谢",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id199245433"
+                    },
+                    "name": {
+                        "label": "Dragon9410"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-07-04T02:50:11-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11454891586"
+                },
+                "title": {
+                    "label": "Great fast easy to use App. 👍🙏"
+                },
+                "content": {
+                    "label": "Great 😊",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id159581503"
+                    },
+                    "name": {
+                        "label": "DJX52356"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-30T21:48:26-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11442993197"
+                },
+                "title": {
+                    "label": "Updated outstanding balance - when payment is made"
+                },
+                "content": {
+                    "label": "Currently the app only shows amount due to pay but does not update the due should the\nPayor made partial payments . It still reflects as total amount outstanding. It will be good to have this “real- time” updated the outstanding amount",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1499391593"
+                    },
+                    "name": {
+                        "label": "bruhfartio"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-27T21:47:17-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.5"
+                },
+                "id": {
+                    "label": "11431581404"
+                },
+                "title": {
+                    "label": "bad"
+                },
+                "content": {
+                    "label": "can’t refer a friend keeps saying not able to land on sc referral club and ask me to open a deposit acc which i alr have",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id167144074"
+                    },
+                    "name": {
+                        "label": "hngtch1"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-23T00:04:57-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11413062284"
+                },
+                "title": {
+                    "label": "No way to reach customer service on hotline"
+                },
+                "content": {
+                    "label": "No way to reach customer service except for fraud. Decided to cancel card due to poor customer support.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id197025139"
+                    },
+                    "name": {
+                        "label": "0503CK"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-18T21:12:58-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11397590983"
+                },
+                "title": {
+                    "label": "Correct PW but was unable to log in"
+                },
+                "content": {
+                    "label": "Despite keying the correct PW, the mobile app rejected numerous time. There is no way I have keyed the wrong PW as I have only accessed it recently. Deleted and reinstalled the app, still the same. Doesn’t help on top of this, the SCB 24hr hotline isn’t user friendly as well to request for assistance.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id471055701"
+                    },
+                    "name": {
+                        "label": "Boo roman reigns"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-14T14:44:42-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11381780237"
+                },
+                "title": {
+                    "label": "Bad app"
+                },
+                "content": {
+                    "label": "Among all banking app. posb digibank, OCBC digital, UOB Tmrw and SC mobile…\n\nSC mobile is by far the worst! \nEven if you keyed in the correct username and password, they will still lock u out. Ridiculous. No way one day i keyed in correctly and then the next day with the same info are all wrong",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id129893049"
+                    },
+                    "name": {
+                        "label": "WinnieOng"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-08T21:14:10-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11359995944"
+                },
+                "title": {
+                    "label": "Very patience Customer Service"
+                },
+                "content": {
+                    "label": "Call on 9/6/24 11.55am to 12.10pm. A gentleman name Daren (if I heard his name correctly) is very patient to answer all my question Ned help me with a fraud transaction that was not done by me last month and was still indicated into bill although I called last month and was given a new card. He help me settle all these problem with so much patience and assurance. Thank you for making such unpleasant experience into a assuring one",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id165569618"
+                    },
+                    "name": {
+                        "label": "mkain25"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-07T17:37:49-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11355655962"
+                },
+                "title": {
+                    "label": "Needs to improve - a lot"
+                },
+                "content": {
+                    "label": "OK for basic needs. Laggy and buggy for almost everything else. Constant errors while trying to update communication preferences, app clicks taking you to website which says you should click in app to enable offers leading to circular logic. Emails offers not reflecting in app (only way to accept offers is in app). Etc etc. Perhaps well planned but very poorly executed.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id177399037"
+                    },
+                    "name": {
+                        "label": "TheLittSki"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-07T02:44:23-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11353075807"
+                },
+                "title": {
+                    "label": "Worst service ever"
+                },
+                "content": {
+                    "label": "Got scammed: transaction wasn’t authorized. \nTook me a long time to reinstall my internet banking.\nI had to insist. And insist. And call again.\nHotline not convenient and you can barely hear the employees from the call center.\nLovely helpful people at the various branches, but they hardly make up for the terrible service provided.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id132136388"
+                    },
+                    "name": {
+                        "label": "bon7177"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-06-04T00:25:52-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "9.13.4"
+                },
+                "id": {
+                    "label": "11341450826"
+                },
+                "title": {
+                    "label": "Review of balance"
+                },
+                "content": {
+                    "label": "With the new update, view balance for both deposit and credit card is not as easy compared to the past.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1049498877"
+                    },
+                    "name": {
+                        "label": "CCC 0405"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-05-24T01:37:54-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.3"
+                },
+                "id": {
+                    "label": "11301007018"
+                },
+                "title": {
+                    "label": "UX"
+                },
+                "content": {
+                    "label": "Very nice UX. You are the best.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id393823275"
+                    },
+                    "name": {
+                        "label": "Xianingxue"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-05-13T22:13:27-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.3"
+                },
+                "id": {
+                    "label": "11265289540"
+                },
+                "title": {
+                    "label": "Unable to register account using card number"
+                },
+                "content": {
+                    "label": "Keep failing when trying to register an account by card number. \nTried to call hotline and there is no option related and can’t get to a human support! Have been trying for days and unsuccessful. Frustrated.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id252815312"
+                    },
+                    "name": {
+                        "label": "ANGRY SC MOBILE USER"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-05-08T05:11:50-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.3"
+                },
+                "id": {
+                    "label": "11245043966"
+                },
+                "title": {
+                    "label": "YOU CANT CHANGE DAILY TRANSFER LIMIT"
+                },
+                "content": {
+                    "label": "I can’t change the daily transfer limit in the app. I can’t change the limit on the website either event if I have already set up the SC Mobile Key on my iPhone. \nI can’t use the chat service because it’s not available. If it’s not available, why you put it there OMG.\nI guess I have to do it at the bank counter. \nThey are encountering serious technical issues or they just did it on purpose. I’m no longer banking with SC.\nTerrible user experience.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id106057702"
+                    },
+                    "name": {
+                        "label": "kyroschen"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-05-02T10:47:07-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.3"
+                },
+                "id": {
+                    "label": "11224734604"
+                },
+                "title": {
+                    "label": "Buggy"
+                },
+                "content": {
+                    "label": "Crappy buggy app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id230352017"
+                    },
+                    "name": {
+                        "label": "Pooi shan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-29T18:54:08-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.2"
+                },
+                "id": {
+                    "label": "11215093481"
+                },
+                "title": {
+                    "label": "Card late fee waiver"
+                },
+                "content": {
+                    "label": "Staff nice and patient explain to me. Will recommended all my friends for using Scb credit card. 👍",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1300730709"
+                    },
+                    "name": {
+                        "label": "Nomerina"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-24T17:19:39-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.2"
+                },
+                "id": {
+                    "label": "11197145837"
+                },
+                "title": {
+                    "label": "Credit Card Application"
+                },
+                "content": {
+                    "label": "Staandard Chartered is very efficient and reliable. The application for card is smooth, fast and easy.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id162188993"
+                    },
+                    "name": {
+                        "label": "zac1234568"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-22T03:14:19-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.2"
+                },
+                "id": {
+                    "label": "11187785140"
+                },
+                "title": {
+                    "label": "No credit card fee waiver"
+                },
+                "content": {
+                    "label": "Despite being a frequent spender and never being late for a single payment, I’m not eligible for a fee waiver, unlike other banks. \n\nSupport hotline is confusing with many layers to go through, end up also never connect you to any agents.\n\nCancelled my card, goodbye SC.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id145120882"
+                    },
+                    "name": {
+                        "label": "Divcheese"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-18T06:09:58-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.2"
+                },
+                "id": {
+                    "label": "11173131321"
+                },
+                "title": {
+                    "label": "App update takes for ever"
+                },
+                "content": {
+                    "label": "I am trying to do an urgent transaction.  App update was forced and it is taking ages to load in App Store.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1211724093"
+                    },
+                    "name": {
+                        "label": "Fazm98"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-11T21:46:30-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.2"
+                },
+                "id": {
+                    "label": "11148351549"
+                },
+                "title": {
+                    "label": "Slow PayNow Transactions and Sluggish UI"
+                },
+                "content": {
+                    "label": "App takes way too long to perform PayNow transactions to other banks and too much emphasis on animations rather than fluidity and animations",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id686361262"
+                    },
+                    "name": {
+                        "label": "sdaniele77"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-04-06T18:18:00-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.1"
+                },
+                "id": {
+                    "label": "11129954681"
+                },
+                "title": {
+                    "label": "Hope you will never need some human help"
+                },
+                "content": {
+                    "label": "My experience as a customer needed some help \n- phone banking customer service will never direct you to an agent \n- live chat get ALWAYS disconnected when it comes to provide you with an helpful answer \n- been 2 times in the Singapore central branch. People are juniors, probably just hired from college and put there without trainings. They don’t have bank knowledge or customer relation experience/discipline to manage clients. I was embarrassed for the poor guys. \n\nFYI Problem statement that was never resolved : \nChoose SC for credit card (cashback reason mainly). After 3 months usage had to block the card due to fraudulent transactions. My card and transactions disappear from the app and I never got my cashback. No possibility to get help and solve the issue after 2 months effort. From any channel. \n\nNot recommended",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id986338089"
+                    },
+                    "name": {
+                        "label": "fishywashy"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-26T10:49:18-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11088336328"
+                },
+                "title": {
+                    "label": "Best banking app"
+                },
+                "content": {
+                    "label": "Best banking app available so far",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id151754923"
+                    },
+                    "name": {
+                        "label": "BananaShakey"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-25T23:26:30-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11086550598"
+                },
+                "title": {
+                    "label": "App keeps crashing"
+                },
+                "content": {
+                    "label": "App keeps crashing when I tried to access the billed and unbilled information since the latest update. Tried to inform the bank customer service through the in app chat but no help at all. Asked me whether I have updated my phone version to the latest. When I told her I did and in fact I check everyday for latest version, she seems to doubt what I said. Btw, her name is Karen. And sort of mocked me “that’s great, you check your phone everyday for latest versions”. When I told her I can’t get out to the app home page to confirm something because I’m chatting with her via the app. Again she doubted what I said “I would have access to your particulars if you chatted in the app”. Why would I lie?! Could it not be that their app is really not up to the mark!! This is ridiculous. First of all the lousy pp and now bd customer service.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id104273143"
+                    },
+                    "name": {
+                        "label": "teohky"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-23T05:02:54-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11076068713"
+                },
+                "title": {
+                    "label": "Garbage app"
+                },
+                "content": {
+                    "label": "The worst baking app in Singapore. Change the apps from bad to worst. You sure know how to loose customers!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id548499644"
+                    },
+                    "name": {
+                        "label": "Waddahelllolol"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-20T17:10:17-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11067022047"
+                },
+                "title": {
+                    "label": "Buggy App Causes Crash"
+                },
+                "content": {
+                    "label": "The “billed” and “unbilled” tabs under credit card are bugged. It cannot be selected and when tapped, the app crashes in approximately five seconds. \n\n Replying to the comment that to ensure you have the latest version. This happened after updating to the LATEST version. Maybe spend more time checking at the issue pointed out by users instead of putting up replies based on generic templates.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id367222203"
+                    },
+                    "name": {
+                        "label": "WampaJabba"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-15T23:12:34-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11049682923"
+                },
+                "title": {
+                    "label": "Good but…"
+                },
+                "content": {
+                    "label": "Yeah the app is stable and nice and all but I’m not a fan of the fonts, seems a little informal.\n\nAlso, can y’all please change the name of the app to incorporate StanChart or something? I’m always searching for Stan and it doesn’t show up, then I realise, your app’s name is SC which people don’t really associate with. I suggest renaming it to “StanChart (SC Mobile)”. Thanks.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id239715556"
+                    },
+                    "name": {
+                        "label": "XDeathy"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-15T18:26:43-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11049001268"
+                },
+                "title": {
+                    "label": "Buggy and messy"
+                },
+                "content": {
+                    "label": "While I like the new UI, it is more style over substance. The app is super buggy, purchase validation somehow always rejects my order even though I pressed “approve”, and the app is always always under maintenance. Very bad user experience.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id165643621"
+                    },
+                    "name": {
+                        "label": "Sara wmy"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-14T01:26:48-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11042676329"
+                },
+                "title": {
+                    "label": "Disappointed customer services"
+                },
+                "content": {
+                    "label": "All while I been paying my credit card bill promptly , except 1 accident and I’m late for just 1 day , was rejected of my late waiver request it is very disappointing, I even refer standard chartered to my friend , the operator inside that bank has no way to help me , and after this month I clear my payment will not be continued with standard chartered, as well will share my experience to my friend not to use it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id42789174"
+                    },
+                    "name": {
+                        "label": "Juzsparx"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-11T14:27:38-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11034231976"
+                },
+                "title": {
+                    "label": "Can’t view transactions on Mobile App"
+                },
+                "content": {
+                    "label": "SC mobile app used to be very good. Now, I can’t even load any of my transaction records. This has been happening for many days now with no fix. Consider this to be really critical when customers need to check on their credit card charges and cannot wait for days for it to generate. I urge the team to look into this with urgency.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "1"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id331915487"
+                    },
+                    "name": {
+                        "label": "TKK889"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-05T21:49:21-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.13.0"
+                },
+                "id": {
+                    "label": "11013443085"
+                },
+                "title": {
+                    "label": "perfect seamless to use with enticing graphics!"
+                },
+                "content": {
+                    "label": "as above",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id956390900"
+                    },
+                    "name": {
+                        "label": "lyanaaurora6"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-05T10:15:28-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "11011759165"
+                },
+                "title": {
+                    "label": "Hi"
+                },
+                "content": {
+                    "label": "I’ve made payment of 1386.40 on 3 rd March but not reflected it already been deducted from my bank. Please get back to me it’s so difficult to raise a service request it’s invalid stupid app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id180677150"
+                    },
+                    "name": {
+                        "label": "Dhara Vipul"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-05T08:25:50-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "11011365154"
+                },
+                "title": {
+                    "label": "duplicate menu"
+                },
+                "content": {
+                    "label": "In the credit card details, there are duplicate menu and the other menu will be pushed down. Please keep the most important menu on top.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1153411580"
+                    },
+                    "name": {
+                        "label": "Cheong AH"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-03-04T01:39:21-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "11006663895"
+                },
+                "title": {
+                    "label": "Good and prompt services"
+                },
+                "content": {
+                    "label": "Custom",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id180359432"
+                    },
+                    "name": {
+                        "label": "Keithy13"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-28T02:11:12-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10988186855"
+                },
+                "title": {
+                    "label": "Where is the cvv display in the app??"
+                },
+                "content": {
+                    "label": "I cannot find my credit card  cvv in the app how frustrating…",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1230180331"
+                    },
+                    "name": {
+                        "label": "halfhielcblslncdm"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-20T21:27:19-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10962293496"
+                },
+                "title": {
+                    "label": "Slow and very difficult to temporarily disable or enable credit card as need"
+                },
+                "content": {
+                    "label": "The app comes with too complicated menu and navigation especially when the speed of refresh from a menu to another menu is too slow. And take many clicks to reach the function of disable or enable credit card. Pls do like Trust Bank, very easy to unlock my credit card when I need to use it for payment, then easily lock it again when I’m done with payment. Don’t need to worry about fraud and scam!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id928973414"
+                    },
+                    "name": {
+                        "label": "Embosser"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-16T08:00:43-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10945487998"
+                },
+                "title": {
+                    "label": "Bill payment"
+                },
+                "content": {
+                    "label": "Ease of use",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id200882428"
+                    },
+                    "name": {
+                        "label": "Andy lx"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-12T02:06:32-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10930151597"
+                },
+                "title": {
+                    "label": "Super confused app"
+                },
+                "content": {
+                    "label": "Credit card due payment and balance is so confused. After you have made a payment they won’t update the status and still telling you there is a dua amount need to pay.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1534610431"
+                    },
+                    "name": {
+                        "label": "Sandun76"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-06T06:12:18-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10908576275"
+                },
+                "title": {
+                    "label": "Really good looking Ui"
+                },
+                "content": {
+                    "label": "App works perfectly.next to none down time on services",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id393741960"
+                    },
+                    "name": {
+                        "label": "Fromyourprettymum"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-02T20:18:19-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10895309193"
+                },
+                "title": {
+                    "label": "App"
+                },
+                "content": {
+                    "label": "Very lag , go to point shop to redeem gifts have to restart the app for 8 times. Customer service function in the app is useless too.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id630977355"
+                    },
+                    "name": {
+                        "label": "edameme 7132"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-02-01T09:30:47-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10889550513"
+                },
+                "title": {
+                    "label": "Always under maintenance"
+                },
+                "content": {
+                    "label": "Can’t link nric to paynow, always saying sorry for the inconvenience. Other functions that can’t be activated too, interface should be improved",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id157478018"
+                    },
+                    "name": {
+                        "label": "workr"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-01-28T00:16:30-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10872816649"
+                },
+                "title": {
+                    "label": "Problematic"
+                },
+                "content": {
+                    "label": "App gives error messages advising you to retry transactions , even though the transactions have gone thru. Resulting in you repeating transactions erroneously , and their support team won’t even trace the issue unless you send proof of the error messages. Transfers can sometimes trigger additional verification but the app cannot handle both the transaction as well as the verification message, so you end up having to log on a desktop and leave the app “free” to receive the verification. Overall, terrible experience with this banking app. Only reminds me I should change banks.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id153715059"
+                    },
+                    "name": {
+                        "label": "Ninijo123"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-01-27T09:06:22-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10870542462"
+                },
+                "title": {
+                    "label": "Problem with connecting with SGFindex"
+                },
+                "content": {
+                    "label": "Everything else is okay accept with the connection with SGfindex.\n\nAlso, it’s super hard to find the link to submit a ticket to the service desk.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/sg/reviews/id1618292185"
+                    },
+                    "name": {
+                        "label": "annoyedanoni"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-01-27T05:51:06-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "9.12.5"
+                },
+                "id": {
+                    "label": "10869893643"
+                },
+                "title": {
+                    "label": "Always In Service"
+                },
+                "content": {
+                    "label": "Been trying to jumpstart my online banking with this app and bank but it always says it has an issue with the system and to keep trying. I would say to save your time and try other reputable and credible banks than an app that is always down.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/sg/review?id=367337298&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2024-07-29T16:07:56-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=sg&id=132385"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://mzstoreservices-int-st.itunes.apple.com/sg/rss/customerreviews/page=1/id=367337298/sortby=mostrecent/json?urlDesc=page=1//customerreviews/id=367337298/sortby=mostrecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/sg/rss/customerreviews/page=1/id=367337298/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=367337298/sortby=mostrecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/sg/rss/customerreviews/page=10/id=367337298/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=367337298/sortby=mostrecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/sg/rss/customerreviews/page=1/id=367337298/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=367337298/sortby=mostrecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/sg/rss/customerreviews/page=2/id=367337298/sortby=mostrecent/xml?urlDesc=/customerreviews/page=1/id=367337298/sortby=mostrecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://mzstoreservices-int-st.itunes.apple.com/sg/rss/customerreviews/page=1/id=367337298/sortby=mostrecent/json?urlDesc=page=1//customerreviews/id=367337298/sortby=mostrecent/json"
+        }
+    }
+}
